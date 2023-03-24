@@ -1,0 +1,19 @@
+{
+  "name": "2023-03-24-nodejs-createserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KangJeemin/2023-03-24-nodejs-createServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KangJeemin/2023-03-24-nodejs-createServer/issues"
+  },
+  "homepage": "https://github.com/KangJeemin/2023-03-24-nodejs-createServer#readme"
+}
