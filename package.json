@@ -15,5 +15,7 @@
   "bugs": {
     "url": "https://github.com/KangJeemin/2023-03-24-nodejs-createServer/issues"
   },
-  "homepage": "https://github.com/KangJeemin/2023-03-24-nodejs-createServer#readme"
+  "homepage": "https://github.com/KangJeemin/2023-03-24-nodejs-createServer#readme",
+  "type":"module"
+
 }
